@@ -10,8 +10,3 @@ I’m a web developer focused on building scalable and efficient applications us
 
 ### ✍️ Random Dev Quote
 code is like humor. when you have to explain it it’s bad
-
----
-[![](https://visitcount.itsvg.in/api?id=jay529007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
