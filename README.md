@@ -2,7 +2,7 @@
 I’m a web developer focused on building scalable and efficient applications using the MERN stack (MongoDB, Express, React, Node.js). Passionate about learning, I’m always looking to connect with like-minded developers in the MERN community and contribute to impactful open-source projects. Let’s build something great together!
 
 
-## 🌐 Socials: 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-satapara-78a44624b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/nightplayz007) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jay-satapara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jay_satapara007) 
 
 # 💻 Tech Stack:
